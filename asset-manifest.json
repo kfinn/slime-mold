@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slime-mold/static/css/main.94dafbc5.chunk.css",
+    "main.js": "/slime-mold/static/js/main.3dc48650.chunk.js",
+    "main.js.map": "/slime-mold/static/js/main.3dc48650.chunk.js.map",
+    "runtime-main.js": "/slime-mold/static/js/runtime-main.005caa8a.js",
+    "runtime-main.js.map": "/slime-mold/static/js/runtime-main.005caa8a.js.map",
+    "static/js/2.ba59099f.chunk.js": "/slime-mold/static/js/2.ba59099f.chunk.js",
+    "static/js/2.ba59099f.chunk.js.map": "/slime-mold/static/js/2.ba59099f.chunk.js.map",
+    "static/js/3.78142f47.chunk.js": "/slime-mold/static/js/3.78142f47.chunk.js",
+    "static/js/3.78142f47.chunk.js.map": "/slime-mold/static/js/3.78142f47.chunk.js.map",
+    "index.html": "/slime-mold/index.html",
+    "static/css/main.94dafbc5.chunk.css.map": "/slime-mold/static/css/main.94dafbc5.chunk.css.map",
+    "static/js/2.ba59099f.chunk.js.LICENSE.txt": "/slime-mold/static/js/2.ba59099f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.005caa8a.js",
+    "static/js/2.ba59099f.chunk.js",
+    "static/css/main.94dafbc5.chunk.css",
+    "static/js/main.3dc48650.chunk.js"
+  ]
+}
